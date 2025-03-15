@@ -21,7 +21,7 @@ footer{
     justify-content: center;
 }
 .container{
-    width: 100%;
+    padding: 5dvh;
     height: 100dvh;
 }
 p{
